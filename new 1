@@ -1,0 +1,30 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "Example 1",
+      "playStoreID": "com.vicetown.thaniose.crime.gangaster.gta",
+      "appStoreID": "1111",
+      "price": "FREE",
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/3GSACjl7rT4iMwWp1a8a03hCjCei2SFxQCjPAlkodS7xv2rwgul1faGkX1pLOgoHxvA",
+          "frameColor": "#f44242"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Example 2",
+      "playStoreID": "army.gta.us.war.stickman.rope.heros.pubg",
+      "appStoreID": "2222",
+      "price": "FREE",
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/Y1mYmRslai2i9G1FuqocfHpssxShSPjLoMVrCdf7j-8Kmr9G3ecL53Qqrm3UTr-Yn6s",
+          "frameColor": "#5841f4"
+        }
+      ]
+    }
+  ]
+}
